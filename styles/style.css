@@ -43,6 +43,11 @@ iframe{
     height: 471px;
 }
 
+div#new{
+    height: 551px;
+    overflow: hidden;
+}
+
 #social-media{
     text-align: center;
 }
