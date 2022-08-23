@@ -24,7 +24,6 @@ main{
 
 section#mobile{
     position: absolute;
-    z-index: -1;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -45,11 +44,11 @@ iframe{
 }
 
 #social-media{
-    text-align: right;
+    text-align: center;
 }
 
 #social-media img{
-    width: 50px;
+    width: 40px;
     margin: 10px;
     border-radius: 50%;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.574);
